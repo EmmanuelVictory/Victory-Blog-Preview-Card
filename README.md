@@ -57,11 +57,11 @@ At the bottom, I added the profile avatar and author’s name.
 
 This gave me practice in aligning images with text inside a card.
 
-# 💡 What I Learned
+## 💡 What I Learned
 
 While building this project, I learned a lot of small but powerful CSS and HTML concepts: 1. How to create a card layout using div as a container. 2. The importance of border-radius. 3. How to use relative positioning to move elements slightly without breaking the flow. 4. How to style buttons from scratch instead of relying on default styles. 5. Using colors in HSL format instead of HEX or RGB – which is more intuitive for adjusting hue, saturation, and lightness. 6. The difference between headings and paragraphs in structuring content. 7. How to align an avatar beside text using positioning and spacing.
 
-# Gratitude
+## Gratitude
 
 I’m really grateful to Frontend Mentor for providing this challenge because it gave me the chance to practice real-world UI component.
 This project has boosted my confidence with basic layouts and shown me how even simple HTML and CSS can create beautiful, professional-looking designs.
